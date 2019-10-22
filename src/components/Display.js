@@ -5,3 +5,4 @@ const Display = ({ gameOver, text}) => (
 )
 
 export default Display;
+
